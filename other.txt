@@ -1,0 +1,24 @@
+####
+以上示例均是2.3的手册中的内容,少量是网上的
+####14:01:49
+在你想调试的地方加:import pdb;pdb.set_trace() 
+###14:01:56
+python调试咋用 14:02:53
+然后程序运行到你放pdb的部分就会停下来， 
+你输入help看看有哪些命令可用 
+我一般用n下一步，s步入，l看代码，这几个 
+###14:05:50
+我要跟什么啊，确定值非空吗？ 
+###14:06:03
+你说呢 
+看它报Nonetype的那个值是不是你预期的
+##################
+http://opensource.org/
+http://docs.python.org/2/faq/index.html 
+http://docs.python.org/2/faq/library.html
+####python-study-history###
+cnpythoner.com
+1 到python官网里看下入门资料(docs.python.org/2/tutorial/index.html )
+2 python学习手册第3版本，basic
+3 python的核心编程,practise ,model or package
+4 coding:写个替换文件的程序，计算器程序。写了些脚本慢慢对它有感觉了。恭喜你上路了。
